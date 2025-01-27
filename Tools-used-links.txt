@@ -1,0 +1,6 @@
+https://git-scm.com/downloads==> git
+
+https://developer.hashicorp.com/terraform/install?product_intent=terraform==> Terraform
+terraform -v
+
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli==> azure cli

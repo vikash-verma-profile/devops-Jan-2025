@@ -1,0 +1,11 @@
+git init==> intialize git in a perticular location
+git add .==> add file and folder in git
+git commit -m "<message>"==> this command will push all the local changes and bundle into a bunch. so that it can pushed in one go
+git push ==> this will push your code to server /or source which you have on remotre
+
+git branch -M main==> this will create a branch name main and make it defualt master branch
+
+
+git remote add origin https://github.com/vikash-verma-profile/devops-Jan-2025.git
+
+=> This command will connect your local workspace to server
