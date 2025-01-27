@@ -4,3 +4,6 @@ https://developer.hashicorp.com/terraform/install?product_intent=terraform==> Te
 terraform -v
 
 https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli==> azure cli
+az -v
+
+az login
