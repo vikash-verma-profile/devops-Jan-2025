@@ -1,0 +1,7 @@
+1.register on azure devops
+create an organisation and create an devops repo as well.
+ submit the form
+
+https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5zsR558741CrNi6q8iTpANURUhKMVA3WE4wMFhHRExTVlpET1BEMlZSTCQlQCN0PWcu&route=shorturl
+2.create a github account==> create one repo
+3.clone the same repo in local
