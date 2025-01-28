@@ -21,7 +21,7 @@ resource "azurerm_resource_group" "my_demo" {
 }
 
 resource "azurerm_storage_account" "storage_account" {
-  name                = "${var.storage_account_name}${random_string.myrandom.id}"
+  name                = "${var.storage_account_name}${random_string.myrandom.id}" 
   resource_group_name = azurerm_resource_group.my_demo.name
 
   location                 = var.location
@@ -34,3 +34,5 @@ resource "azurerm_storage_account" "storage_account" {
     error_404_document = var.static_website_error_404_document
   }
 }
+
+
